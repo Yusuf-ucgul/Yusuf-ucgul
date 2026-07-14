@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf-ucgul
 - 👀 I’m interested in website developing
-- 🌱 I’m currently learning webflow
+- 🌱 I’m currently using webstudio
 - 📫 How to reach me ahmetyusufucgul@gmail.com
 
 <!---
